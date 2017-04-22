@@ -1,14 +1,17 @@
 # SocialPosts
 
 GENERAL
+
 Piece of code to show how to upload a post for Facebook or Twitter using Social framework. As for the other two other networks, Sina Weibo and Tencent Weibo, they are currently produce an empty ViewController, but I left code for future usage just in case.
 
 HOW TO USE
+
 Enter your text for the post in the TextView (see `ScreenShot` file). If you want to attach an image from Photo Assets, tap on the image view square to upload a picture from your assets. Finally, press on one of the social network icons for posting. It will not send the post immediately, but will open a SLComposeViewController showing your picked text and picture (if you chose to load one).
 If you are not hooked on Settings to the social network you have picked, SLComposeViewController will automatically prompts a message asking you to connect.
 More stuff to find in code : how to pick an image from assets and how to dismiss keyboard after typing in TextView.
 
 IMPORTANT NOTES
+
 Please Mind in this project:
 
 * Code I have written is free as far as I'm concerned. You may copy, change, distribute
