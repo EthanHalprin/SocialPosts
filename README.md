@@ -1,4 +1,5 @@
 # SocialPosts
+Swift code to post to Face/Twitter
 
 ![ScreenShot Social](/ScreenShot.png)
 
