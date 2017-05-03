@@ -1,5 +1,7 @@
 # SocialPosts
 
+![ScreenShot Social](/ScreenShot.png)
+
 GENERAL
 
 Piece of code to show how to upload a post for Facebook or Twitter using Social framework. As for the other two other networks, Sina Weibo and Tencent Weibo, they are currently produce an empty ViewController, but I left code for future usage just in case.
